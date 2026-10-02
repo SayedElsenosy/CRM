@@ -1,0 +1,8 @@
+[functions.whatsapp-webhook]
+verify_jwt = false
+
+[functions.whatsapp-accounts-admin]
+verify_jwt = true
+
+[edge_runtime]
+policy = "per_worker"
