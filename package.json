@@ -1,0 +1,11 @@
+{
+  "name": "rider-recruitment-whatsapp-starter",
+  "private": true,
+  "version": "0.1.0",
+  "devDependencies": {
+    "supabase": "^2.0.0"
+  },
+  "scripts": {
+    "supabase:start": "supabase start"
+  }
+}
