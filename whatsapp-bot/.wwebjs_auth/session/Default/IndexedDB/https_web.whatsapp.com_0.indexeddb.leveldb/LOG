@@ -1,0 +1,49 @@
+2026/10/01-20:43:52.611 484c Reusing MANIFEST C:\Users\hp\Downloads\breadfast-recruitment-bot-final-v1.2\final_v12_work\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/10/01-20:43:52.612 484c Recovering log #454
+2026/10/01-20:43:52.688 484c Reusing old log C:\Users\hp\Downloads\breadfast-recruitment-bot-final-v1.2\final_v12_work\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000454.log 
+2026/10/01-20:44:05.034 484c Level-0 table #466: started
+2026/10/01-20:44:05.076 484c Level-0 table #466: 1225710 bytes OK
+2026/10/01-20:44:05.078 484c Delete type=0 #454
+2026/10/01-20:44:06.346 484c Compacting 1@1 + 8@2 files
+2026/10/01-20:44:06.497 484c Generated table #467@1: 84374 keys, 2234360 bytes
+2026/10/01-20:44:06.643 484c Generated table #468@1: 101466 keys, 2253553 bytes
+2026/10/01-20:44:06.742 484c Generated table #469@1: 50590 keys, 2312576 bytes
+2026/10/01-20:44:06.834 484c Generated table #470@1: 26161 keys, 2182681 bytes
+2026/10/01-20:44:06.904 484c Generated table #471@1: 17661 keys, 2188917 bytes
+2026/10/01-20:44:06.995 484c Generated table #472@1: 31359 keys, 2165045 bytes
+2026/10/01-20:44:07.198 484c Generated table #473@1: 90604 keys, 2237208 bytes
+2026/10/01-20:44:07.241 484c Generated table #474@1: 24140 keys, 707479 bytes
+2026/10/01-20:44:07.241 484c Compacted 1@1 + 8@2 files => 16281819 bytes
+2026/10/01-20:44:07.242 484c compacted to: files[ 0 0 9 0 0 0 0 ]
+2026/10/01-20:44:23.804 554c Level-0 table #476: started
+2026/10/01-20:44:23.853 554c Level-0 table #476: 1271407 bytes OK
+2026/10/01-20:44:23.856 554c Delete type=2 #456
+2026/10/01-20:44:23.856 554c Delete type=2 #457
+2026/10/01-20:44:23.856 554c Delete type=2 #458
+2026/10/01-20:44:23.856 554c Delete type=2 #459
+2026/10/01-20:44:23.856 554c Delete type=2 #460
+2026/10/01-20:44:23.857 554c Delete type=2 #461
+2026/10/01-20:44:23.858 554c Delete type=2 #462
+2026/10/01-20:44:23.858 554c Delete type=2 #463
+2026/10/01-20:44:23.858 554c Delete type=0 #465
+2026/10/01-20:44:23.858 554c Delete type=2 #466
+2026/10/01-20:44:23.917 484c Compacting 1@1 + 8@2 files
+2026/10/01-20:44:24.125 484c Generated table #477@1: 84877 keys, 2233860 bytes
+2026/10/01-20:44:24.298 484c Generated table #478@1: 101536 keys, 2254702 bytes
+2026/10/01-20:44:24.463 484c Generated table #479@1: 50670 keys, 2316954 bytes
+2026/10/01-20:44:24.578 484c Generated table #480@1: 29162 keys, 2184101 bytes
+2026/10/01-20:44:24.661 484c Generated table #481@1: 16132 keys, 2185877 bytes
+2026/10/01-20:44:24.745 484c Generated table #482@1: 27247 keys, 2161988 bytes
+2026/10/01-20:44:24.897 484c Generated table #483@1: 90710 keys, 2238613 bytes
+2026/10/01-20:44:24.965 484c Generated table #484@1: 30018 keys, 860319 bytes
+2026/10/01-20:44:24.965 484c Compacted 1@1 + 8@2 files => 16436414 bytes
+2026/10/01-20:44:24.966 484c compacted to: files[ 0 0 9 0 0 0 0 ]
+2026/10/01-20:44:24.968 484c Delete type=2 #467
+2026/10/01-20:44:24.968 484c Delete type=2 #468
+2026/10/01-20:44:24.968 484c Delete type=2 #469
+2026/10/01-20:44:24.968 484c Delete type=2 #470
+2026/10/01-20:44:24.968 484c Delete type=2 #471
+2026/10/01-20:44:24.968 484c Delete type=2 #472
+2026/10/01-20:44:24.969 484c Delete type=2 #473
+2026/10/01-20:44:24.969 484c Delete type=2 #474
+2026/10/01-20:44:24.969 484c Delete type=2 #476
